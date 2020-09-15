@@ -1,7 +1,6 @@
 # React Native Shopping List App
 
-> App for React Native crash course on YouTube
-
+> Shopping App for React Native
 ## Quick Start
 
 ``` bash
